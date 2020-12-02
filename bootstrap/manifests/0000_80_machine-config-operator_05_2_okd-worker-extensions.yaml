@@ -13,3 +13,4 @@ spec:
     - glusterfs-fuse
     - open-vm-tools
     - NetworkManager-ovs
+    - qemu-guest-agent
